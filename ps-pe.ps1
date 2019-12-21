@@ -1,4 +1,4 @@
-echo this is a ps-pe script made by Adi-Malyanker "Magen Gide0n" >> reportps.txt
+echo this is a ps-pe script made by "Magen Gide0n" >> reportps.txt
 echo used the following scripts: >>reportps.txt
 echo absolomb's security guide >> reportps.txt
 echo payloadAllTheThings >>reportps.txt
